@@ -20,3 +20,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joankirimi&" alt="joankirimi" /></p>
 
+// Draw some text to the screen:
+drawName('Ready to Code?');
+// Animate the text!
+bounceBubbles();
